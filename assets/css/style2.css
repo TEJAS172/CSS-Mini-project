@@ -1,0 +1,40 @@
+.common{
+    padding: 40px;
+}
+.cssAttribute>[type]{
+    width: 100%;
+    text-align: center;
+    height: 20px;
+    padding: 10px 0px 0px 0px ;
+    margin-top: 20px;
+    border: 1px solid black;
+}
+.cssAttribute>[value]{
+    color: rgb(179, 177, 177);
+    font-size: large;
+    font-weight: bold;
+    font-stretch: wider;
+}
+.cssColor{
+    border-collapse: collapse;
+    float: right;
+}
+.cssColor1{
+    border-collapse: collapse;
+    padding: 20px;
+    width: 100%;
+    text-align: center;
+}
+.cssColor2{
+    border-collapse: collapse;
+    padding: 100px;
+    width: 100%;
+    height: 25px;
+    
+}
+.cssAttribute>form>[type="submit"]{
+    width: 15%;
+}
+.cssAttribute>form>[type="cancel"]{
+    width: 10%;
+}
