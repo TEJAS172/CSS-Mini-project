@@ -168,21 +168,21 @@
     color: red;
 }
 /* P11.HTML */
-.csspsuedoElement>section:first-child::first-line, .csspsuedoElement>section:nth-child(2)::first-letter{
+.cssPsuedoElement>section:first-child::first-line, .cssPsuedoElement>section:nth-child(2)::first-letter{
     background-color: red;
     color: white;
 }
-.csspsuedoElement>section:nth-child(2)::first-letter{
+.cssPsuedoElement>section:nth-child(2)::first-letter{
     font-size: 30px;
     font-weight: bold;
 }
-.csspsuedoElement>section:last-child>h1::before{
+.cssPsuedoElement>section:last-child>h1::before{
     content: "BEFORE HA";
     background-color: yellow;
     color: red;
 }
 
-.csspsuedoElement>section:last-child>h1::after{
+.cssPsuedoElement>section:last-child>h1::after{
     content: "AFTER H1";
     background-color: yellow;
     color: red;
